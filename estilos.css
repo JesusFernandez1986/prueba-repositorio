@@ -1,0 +1,78 @@
+.general{
+    background: ##f8f9fa;
+}
+
+.containernav {
+    margin-left: 50%;
+    padding-bottom: 10px;
+    background: #f8f9fa;
+}
+
+.logo{
+    height:100px;
+    margin-left:30px;
+}
+
+.buscar{
+    border-radius: 8px;
+    margin-right: 10px;
+    margin-top:5px;
+    width: 150px;
+}
+.containercarousel{
+    padding-bottom: 10px;
+    width:100%;
+    margin-right:60px;
+    margin-left:60px;
+}
+
+.fotos{
+    height:600px;
+    width:92%;
+}
+
+.containercards{
+    widht:auto;
+    margin: 0 60px;
+}
+.cards{
+    width: 400px;
+    height:400px;
+    margin-bottom:10px;
+}
+
+.containermiddle{
+    text-align: center;
+    display:flex;
+    flex-flow:row nowrap;
+    justify-content: space-evenly;
+    align-items center;
+}
+
+#appointment{
+    text-align:center;
+    margin-bottom:15px;
+}
+
+.containerform{
+    margin-top:20px;
+    width:25%;
+}
+
+.containertable{
+    width:25%;
+}
+
+.containerfaq{
+    text-align: center;
+    width:auto;
+    margin: 0 50px;
+}
+
+.containerfooter{
+    margin-top:10px;
+    background: #f8f9fa;
+    width:93.5%;
+    position: relative;
+    left:50px;
+}
